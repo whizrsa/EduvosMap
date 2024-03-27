@@ -1,0 +1,20 @@
+C:\Users\Elvis\source\repos\ITPCA Project1\bin\Debug\ITPCA Project1.exe.config
+C:\Users\Elvis\source\repos\ITPCA Project1\bin\Debug\ITPCA Project1.exe
+C:\Users\Elvis\source\repos\ITPCA Project1\bin\Debug\ITPCA Project1.pdb
+C:\Users\Elvis\source\repos\ITPCA Project1\obj\Debug\ITPCA Project1.csproj.AssemblyReference.cache
+C:\Users\Elvis\source\repos\ITPCA Project1\obj\Debug\ITPCA_Project1.E.resources
+C:\Users\Elvis\source\repos\ITPCA Project1\obj\Debug\ITPCA_Project1.Properties.Resources.resources
+C:\Users\Elvis\source\repos\ITPCA Project1\obj\Debug\ITPCA Project1.csproj.GenerateResource.cache
+C:\Users\Elvis\source\repos\ITPCA Project1\obj\Debug\ITPCA Project1.csproj.CoreCompileInputs.cache
+C:\Users\Elvis\source\repos\ITPCA Project1\obj\Debug\ITPCA Project1.exe
+C:\Users\Elvis\source\repos\ITPCA Project1\obj\Debug\ITPCA Project1.pdb
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\bin\Debug\ITPCA Project1.exe.config
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\bin\Debug\ITPCA Project1.exe
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\bin\Debug\ITPCA Project1.pdb
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\obj\Debug\ITPCA Project1.csproj.AssemblyReference.cache
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\obj\Debug\ITPCA_Project1.E.resources
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\obj\Debug\ITPCA_Project1.Properties.Resources.resources
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\obj\Debug\ITPCA Project1.csproj.GenerateResource.cache
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\obj\Debug\ITPCA Project1.csproj.CoreCompileInputs.cache
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\obj\Debug\ITPCA Project1.exe
+C:\C# Projects\9612_Elvis_Chimuse_CT.2022.Y2M9F2_Claremont_ITPCA_ElvisChimuse_173853_1477766466\ITPCA Project1\obj\Debug\ITPCA Project1.pdb
